@@ -22,3 +22,8 @@ Por último, este cuarto semestre fue el peor de todos. Primero nos dieron al mi
 
 
 Actualmente, gracias al gran esfuerzo de mis padres, pude armar mi PC yo solo sin ayuda de nadie. Me gustaría poder dedicarme a este mundo del desarrollo de software y sé que, si sigo estudiando, lo lograré. 🖥️🫡
+
+
+
+Siganme en mi <a href="https://www.instagram.com/ponce_wd/">INSTAGRAM</a> 
+<a>INSTAGRAM</a>
