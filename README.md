@@ -25,5 +25,5 @@ Actualmente, gracias al gran esfuerzo de mis padres, pude armar mi PC yo solo si
 
 
 
-Siganme en mi <a href="https://www.instagram.com/ponce_wd/">INSTAGRAM</a> 
-<a>INSTAGRAM</a>
+Siganme en mi <a href="https://www.instagram.com/ponce_wd/" style="text-decoration='none'">INSTAGRAM</a> 
+
