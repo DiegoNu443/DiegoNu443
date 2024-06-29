@@ -1,2 +1,2 @@
 ## Hi there 👋
-## Mi nombre es Diego
+[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://www.twitch.tv/mama1ucha)
